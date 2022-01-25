@@ -6,4 +6,7 @@ This boilerplate demostrate golang compilation along with a C++ static library w
 - settings in `go build` command as in `local-build.cmd`
 
 ### TODOs
-- [ ] Test on Linux (github action)
+- [ ] github action (cross compilation)
+
+### Reference
+- [krumberg/cmake_go: CMake support for building Go programs that links to C/C++](https://github.com/krumberg/cmake_go)
