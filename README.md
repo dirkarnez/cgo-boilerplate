@@ -27,5 +27,7 @@ This boilerplate demostrate golang compilation along with a C++ static library w
         
     }
     ```
+- [libgit2/git2go: Git to Go; bindings for libgit2. Like McDonald's but tastier.](https://github.com/libgit2/git2go#versioned-branch-dynamic-linking)
+  - https://github.com/libgit2/git2go/blob/main/transport.go
 ### Reference
 - [krumberg/cmake_go: CMake support for building Go programs that links to C/C++](https://github.com/krumberg/cmake_go)
